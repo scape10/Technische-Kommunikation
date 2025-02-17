@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kraus Daniel Übungen 17.2.2025</title>
+</head>
+<body>
+    <h1 style="font-size:60px;color: blue; text-align:center;">Übungen: HTML-Grundlagen</h1>
+    <h2 style="color: green;">1.Überschrift</h2>
+    <p>Überschriften werden mit Tags &lt;h1&gt;  bis &lt;h6&gt; erstellt</p>
+    <h2 style="color: green;">2. Absatz</h2>
+    <p>Absätze werden mit dem &lt;p&gt; Tag Defenirt</p>
+    <h2 style="color: green;">3. Zeilenumbrüche</h2>
+    <p>Zeilenumbrüche Werden mit dem Tag erzeugt <br> Hier ist ein Zeilen umbruch</p>
+    <h2 style="color: green;">4. Inline CSS</h2>
+    <p style="color: darkred; background-color: lightgray; font-size:18px; font-family:courier; text-align:right;">Dies ist ein Absatzt mit Hintergrund Frarbe lightgray, Textfarbe darkred, <br> rechter Ausrichtung, Schriftgröße 18, Schriftart Courier New</p>
+    <h2 style="color: green;">5. Fett und Kursiv </h2>
+    <p><b>Dieser Text Ist Fett</b></p>
+    <p><i>Dieser Test ist Kursiv</i></p>
+    <p><b><i>Dieser Text ist Fett und Kursiv</i></b></p>
+</body>
+</html>
